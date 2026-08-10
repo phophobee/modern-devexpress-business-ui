@@ -6,162 +6,206 @@ This project is created as an open-source technical portfolio by **Hanina Aplika
 
 ---
 
-## 🎯 Purpose
+## 🏢 About
 
-Many traditional Windows business applications are functional but often have outdated or difficult-to-use interfaces.
+**Modern DevExpress Business UI** is a desktop business application UI project developed by **Hanina Aplikasi**.
 
-This project explores practical UI patterns for building modern desktop business applications using:
+This project demonstrates how a traditional Windows Forms business application can be transformed into a modern, clean, and professional user interface using **VB.NET** and **DevExpress**.
 
-* VB.NET
-* Windows Forms
-* DevExpress
-
-The examples focus on real-world business application scenarios rather than simple UI demonstrations.
+The project focuses on reusable UI components, dashboard design, theme management, data visualization, and business-oriented desktop application patterns.
 
 ---
 
-## 🧩 Components & Examples
+## 📸 Dashboard Preview
 
-The project will contain reusable examples such as:
+### Light Theme
 
-* Modern Dashboard
-* Business Data Grid
-* Master-Detail Grid
-* Search & Filtering
-* Data Entry Forms
-* Dashboard Cards
-* Theme & Skin Management
-* Responsive Form Scaling
-* Business Reports
-* Reusable UserControls
+![Dashboard Light](screenshots/dashboard-light.jpg)
+
+### Dark Theme
+
+![Dashboard Dark](screenshots/dashboard-dark.jpg)
 
 ---
 
-## 🖥️ Technology
-
-| Technology    | Purpose                       |
-| ------------- | ----------------------------- |
-| VB.NET        | Application development       |
-| Windows Forms | Desktop application framework |
-| DevExpress    | UI components and controls    |
-| .NET          | Application platform          |
-
----
-
-## 📚 Planned Examples
+## ✨ Features
 
 ### Dashboard
 
-Business dashboard layouts using DevExpress controls.
+* Modern business dashboard
+* KPI cards
+* Sales overview
+* Recent transactions
+* Top products
+* Responsive desktop layout
 
-### GridControl
+### Theme System
 
-Practical data presentation with:
+* Light Theme
+* Dark Theme
+* Runtime theme switching
+* Persistent theme preference
+* Theme-aware dashboard components
+* Theme-aware charts and data grids
 
-* Sorting
-* Filtering
-* Grouping
-* Formatting
-* Summary
-* Custom row styles
+### Dashboard Components
 
-### Master-Detail
+* Reusable Dashboard Card
+* SVG icon support
+* Hover effects
+* Dynamic value colors
+* Custom card styling
+* Responsive icon positioning
 
-Displaying related business data using DevExpress GridControl master-detail functionality.
+### Data Visualization
 
-Example:
+* DevExpress ChartControl
+* Sales overview visualization
+* Custom chart styling
+* Light/Dark chart themes
 
-```text
-Customer
-   │
-   ├── Sales
-   │     ├── Invoice 001
-   │     ├── Invoice 002
-   │     └── Invoice 003
-   │
-   └── Payments
-         ├── Payment 001
-         └── Payment 002
-```
+### Data Grid
 
-### Theme Management
-
-Examples of switching DevExpress skins and palettes programmatically.
-
-### Form Scaling
-
-Techniques for scaling Windows Forms and business UserControls across different screen resolutions.
-
----
-
-## 🏗️ Example Business Scenarios
-
-The examples are designed around common business application requirements:
-
-```text
-Product Management
-Sales
-Purchasing
-Inventory
-Customer
-Supplier
-Reporting
-Dashboard
-```
+* DevExpress GridControl
+* Recent transactions
+* Top products
+* Custom column formatting
+* Light/Dark grid themes
 
 ---
 
-## 🚀 Why This Project?
+## 🛠️ Technology Stack
 
-This repository demonstrates practical experience in building business applications using VB.NET and DevExpress.
-
-The focus is not only on visual design, but also on:
-
-* Reusable components
-* Maintainable code
-* Business-oriented UI
-* Database-driven interfaces
-* User experience
-* Desktop application architecture
+| Technology            | Purpose                              |
+| --------------------- | ------------------------------------ |
+| VB.NET                | Application development              |
+| Windows Forms         | Desktop application framework        |
+| DevExpress            | UI components and data visualization |
+| DevExpress XtraCharts | Business charts                      |
+| DevExpress XtraGrid   | Data grids                           |
+| SVG                   | Dashboard icons                      |
+| Visual Studio         | Development environment              |
 
 ---
 
-## 👨‍💻 About Hanina Aplikasi
+## 🎨 UI Design
 
-**Hanina Aplikasi** develops business software and custom applications for small and medium-sized businesses.
+The interface is designed specifically for desktop business applications such as:
 
-Areas of expertise include:
-
-* POS Systems
+* Point of Sale (POS)
+* Retail Management
 * Inventory Management
-* Business Applications
-* Desktop Applications
+* Sales Management
+* Purchasing Management
+* Customer Management
+* Business Reporting
+* Accounting Applications
+
+The design emphasizes:
+
+* Clean layout
+* Consistent spacing
+* Clear information hierarchy
+* Business-oriented dashboard components
+* Reusable components
+* Light and dark themes
+
+---
+
+## 🧩 Reusable Components
+
+One of the main goals of this project is to create reusable components that can be integrated into other business applications.
+
+Examples include:
+
+```text
+DashboardCard
+ThemeManager
+ThemeSwitcher
+SvgResourceHelper
+```
+
+These components are designed to simplify the development of modern Windows Forms business applications.
+
+---
+
+## 🏗️ Project Structure
+
+```text
+ModernDevExpressBusinessUI
+│
+├── Components
+│   ├── DashboardCard
+│   ├── ThemeManager
+│   ├── ThemeSwitcher
+│   └── SvgResourceHelper
+│
+├── Dashboard
+│
+├── screenshots
+│   ├── dashboard-light.jpg
+│   └── dashboard-dark.jpg
+│
+└── README.md
+```
+
+---
+
+## 💼 Business Application Experience
+
+This project represents the type of desktop business software development provided by **Hanina Aplikasi**.
+
+The same approach can be applied to custom software solutions such as:
+
+* Retail POS
+* Inventory systems
+* Sales applications
+* Purchasing systems
+* Warehouse management
+* Customer management
+* Business dashboards
+* Custom desktop applications
+
+---
+
+## 👨‍💻 Developer
+
+### Hanina Aplikasi
+
+**Custom Desktop & Business Software Development**
+
+Specialized in building business applications using:
+
 * VB.NET
 * C#
 * DevExpress
 * SQL Server
 * MySQL
+* Desktop POS
+* Inventory Management
+* Business Applications
 
 ---
 
-## ⭐ Featured Project
+## 📬 Contact
 
-For a complete business application case study, see:
+For software development, customization, or business application projects:
 
-**eCash POS — Retail & Business Management System**
+**Hanina Aplikasi**
 
-https://github.com/phophobee/ecash-pos-portfolio
-
----
-
-## 📌 Project Status
-
-This repository is actively developed as a collection of practical examples and reusable patterns.
-
-More examples will be added over time.
+GitHub: [@phophobee](https://github.com/phophobee)
 
 ---
 
-## 📄 License
+## 📌 Portfolio
 
-A license will be added when the reusable components are ready for public distribution.
+This repository is part of the **Hanina Aplikasi software development portfolio**.
+
+The project demonstrates UI architecture, reusable components, dashboard design, data visualization, and desktop business application development using VB.NET and DevExpress.
+
+---
+
+<p align="center">
+  <strong>Hanina Aplikasi</strong><br>
+  Building Practical Software for Business
+</p>
