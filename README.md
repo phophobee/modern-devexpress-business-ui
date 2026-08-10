@@ -1,8 +1,19 @@
 # Modern DevExpress Business UI
 
-A collection of reusable **VB.NET + DevExpress** UI patterns and components for modern Windows business applications.
+<p align="center">
+  <strong>Modern Desktop Business Application UI</strong>
+</p>
 
-This project is created as an open-source technical portfolio by **Hanina Aplikasi**.
+<p align="center">
+  <img src="https://img.shields.io/badge/VB.NET-Desktop-blue" alt="VB.NET">
+  <img src="https://img.shields.io/badge/DevExpress-22.x-orange" alt="DevExpress">
+  <img src="https://img.shields.io/badge/Windows%20Forms-Desktop-success" alt="Windows Forms">
+  <img src="https://img.shields.io/badge/Status-Portfolio-informational" alt="Portfolio">
+</p>
+
+<p align="center">
+  A modern and responsive business application interface built with VB.NET and DevExpress.
+</p>
 
 ---
 
@@ -18,13 +29,57 @@ The project focuses on reusable UI components, dashboard design, theme managemen
 
 ## 📸 Dashboard Preview
 
+<table>
+<tr>
+<td width="50%">
+
 ### Light Theme
 
-![Dashboard Light](screenshots/light.jpg)
+<img src="screenshots/dashboard-light.jpg" width="100%" alt="Dashboard Light Theme">
+
+</td>
+<td width="50%">
 
 ### Dark Theme
 
-![Dashboard Dark](screenshots/dark.jpg)
+<img src="screenshots/dashboard-dark.jpg" width="100%" alt="Dashboard Dark Theme">
+
+</td>
+</tr>
+</table>
+
+---
+## 🎯 What This Project Demonstrates
+
+This project demonstrates practical experience in developing modern desktop business applications with a strong focus on usability, maintainability, and reusable UI components.
+
+### UI & UX
+
+* Modern Windows Forms interface
+* Responsive desktop layout
+* Consistent spacing and typography
+* Light and dark themes
+* Interactive dashboard cards
+* SVG-based visual elements
+
+### Business Application
+
+* KPI dashboard
+* Sales monitoring
+* Purchasing monitoring
+* Profit overview
+* Customer overview
+* Recent transactions
+* Top products
+
+### Development
+
+* Reusable custom controls
+* Centralized theme management
+* DevExpress ChartControl
+* DevExpress GridControl
+* Component-based UI architecture
+* Maintainable project structure
 
 ---
 
