@@ -20,11 +20,11 @@ The project focuses on reusable UI components, dashboard design, theme managemen
 
 ### Light Theme
 
-![Dashboard Light](screenshots/dashboard-light.jpg)
+![Dashboard Light](screenshots/light.jpg)
 
 ### Dark Theme
 
-![Dashboard Dark](screenshots/dashboard-dark.jpg)
+![Dashboard Dark](screenshots/dark.jpg)
 
 ---
 
