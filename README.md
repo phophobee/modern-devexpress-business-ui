@@ -35,14 +35,14 @@ The project focuses on reusable UI components, dashboard design, theme managemen
 
 ### Light Theme
 
-<img src="screenshots/dashboard-light.jpg" width="100%" alt="Dashboard Light Theme">
+<img src="screenshots/light.jpg" width="100%" alt="Dashboard Light Theme">
 
 </td>
 <td width="50%">
 
 ### Dark Theme
 
-<img src="screenshots/dashboard-dark.jpg" width="100%" alt="Dashboard Dark Theme">
+<img src="screenshots/dark.jpg" width="100%" alt="Dashboard Dark Theme">
 
 </td>
 </tr>
