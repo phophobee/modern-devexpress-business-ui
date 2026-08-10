@@ -1,0 +1,56 @@
+# Visual Studio
+
+.vs/
+.vscode/
+
+# Build output
+
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+
+*.VC.db
+*.VC.VC.opendb
+
+# Test results
+
+TestResults/
+*.trx
+
+# Temporary files
+
+*.tmp
+*.temp
+*.log
+
+# NuGet
+
+packages/
+
+# ReSharper
+
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Publish
+
+publish/
+
+# Backup files
+
+*.bak
+*.backup
+
+# OS files
+
+Thumbs.db
+.DS_Store
